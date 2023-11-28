@@ -122,8 +122,8 @@ body{
   }
 
   .card{
+    width: 40rem;
     display: flex;
-    width: 40%;
     border-radius: 10px;
   }
 
